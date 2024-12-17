@@ -18,5 +18,3 @@ const Random:FC<RandomProps> = ({disabled}) :React.ReactNode => {
 }
 
 export default Random
-
-
